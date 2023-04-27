@@ -1,4 +1,4 @@
-Hello im Ryoshi,
+Im Ryoshi,
 
 my real Life name is Dominik Fischer im Living in the north of Germany
 
