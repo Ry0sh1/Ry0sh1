@@ -9,7 +9,7 @@ developer.
 I study computer science in an University in Oldenburg.
 
 Knowledge: Java, MySQL, PostgreSQL, LiteSQL
-Currently learning: HTML and CSS
-planing to learn: Javascript, C++, C#, C
+Currently learning: HTML, CSS and JavaScript
+planing to learn: SpringBoot, C++, C#, C
 
 I will mainly use my Public GitHub like a diary to see my Progress and to improve properly.
