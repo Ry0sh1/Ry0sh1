@@ -13,3 +13,5 @@ Currently learning: HTML, CSS and JavaScript
 planing to learn: SpringBoot, C++, C#, C
 
 I will mainly use my Public GitHub like a diary to see my Progress and to improve properly.
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Ry0sh1/github-readme-stats)
