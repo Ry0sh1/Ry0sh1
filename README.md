@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ryoshi</h1>
+<h1 align="center">I'm Ryoshi</h1>
 <h3 align="center">A prospective Full-Stack developer</h3>
 
 - 🔭 I’m currently working on [Database-Webapp](https://github.com/Ry0sh1/Database-Webapp)
