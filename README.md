@@ -1,7 +1,7 @@
 <h1 align="center">I'm Ryoshi</h1>
 <h3 align="center">A prospective Full-Stack developer</h3>
 
-- 🔭 I’m currently working on [Database-Webapp](https://github.com/Ry0sh1/Database-Webapp)
+- 🔭 I’m currently working on [Database-Webapp](https://github.com/Ry0sh1/Database-Webapp) and [PopSauce-WebApp](https://github.com/Ry0sh1/PopSauce-WebApp)
 - 🎓 I’m currently studying Computer Science in Germany [Carl von Ossietzky](https://uol.de/)
 - 📝 I'm currently learning [Spring Boot](https://spring.io/)
 
