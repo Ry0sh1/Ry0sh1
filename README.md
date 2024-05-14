@@ -1,9 +1,9 @@
 <h1 align="center">I'm Ryoshi</h1>
 <h3 align="center">A prospective Full-Stack developer</h3>
 
-- 🔭 I’m currently working on [My Website](https://github.com/Ry0sh1/MyWebsite2)
+- 🔭 I’m currently working on different Company Websites
 - 🎓 I’m currently studying Computer Science in Germany [Carl von Ossietzky](https://uol.de/)
-- 📝 I'm currently learning [Spring Boot](https://spring.io/)
+- 📝 I'm currently learning Algorithms
 
 <p align="left">
 </p>
